@@ -1,0 +1,47 @@
+.navbar  {
+ color: rgba(0, 0, 255, 0.689);
+}
+
+/* style.css */
+
+h2  {
+    font-family: "Courier New", monospace;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: underline;
+  }
+
+  container-my-3, card-title {
+    font-family: "Courier New", monospace;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: underline;
+  }
+  
+  p {
+    font-family: "Georgia", serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 1.5;
+    color: #666;
+  }
+  
+  a {
+    font-family: "Helvetica", Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  blockquote {
+    font-family: "Palatino Linotype", "Book Antiqua", serif;
+    font-size: 20px;
+    font-style: italic;
+    border-left: 4px solid #999;
+    padding-left: 10px;
+    color: #888;
+  }
+  
